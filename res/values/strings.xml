@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth Analyzer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSwitchOnBluetooth">Switch on Bluetooth</string>
+    <string name="btnSearchActiveDevices">Get Paired Devices</string>
+    <string name="openSelectText">Select An Option</string>
+    <string name="Option1">Enter Distance Manually</string>
+    <string name="Option2">Detect Distance Using GPS</string>
+    <string name="txtEnterDistance">Enter Distance</string>
+    <string name="btnFileExplorer">Select File</string>
+    <string name="labelSelectedFile">File Selected :</string>
+    <string name="title_activity_file_list">FileListActivity</string>
+    <string name="SendFile">Send File</string>
+
+</resources>
